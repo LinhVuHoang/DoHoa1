@@ -1,0 +1,9 @@
+﻿  Bai2.cpp
+F:\cuaoe\OneDrive\Máy tính\STT_THI_HovaTen_MSSV_Lop\STT_THI_HovaTen_MSSV_Lop\STT_THI_HovaTen_MSSV_Lop_Bai2_TemplateBaithuchanhso5\Shader.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\cuaoe\OneDrive\Máy tính\STT_THI_HovaTen_MSSV_Lop\STT_THI_HovaTen_MSSV_Lop\STT_THI_HovaTen_MSSV_Lop_Bai2_TemplateBaithuchanhso5\Shader.h(43,34): warning C4101: 'e': unreferenced local variable
+F:\cuaoe\OneDrive\Máy tính\STT_THI_HovaTen_MSSV_Lop\STT_THI_HovaTen_MSSV_Lop\Thuvien\glm\detail\type_quat.inl(84,55): warning C4566: character represented by universal-character-name '\u1EF1' cannot be represented in the current code page (1252)
+F:\cuaoe\OneDrive\Máy tính\STT_THI_HovaTen_MSSV_Lop\STT_THI_HovaTen_MSSV_Lop\Thuvien\glm\detail\type_quat.inl(84,55): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+  Shader.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  STT_THI_HovaTen_MSSV_Lop_Bai2_TemplateBaithuchanhso5.vcxproj -> F:\cuaoe\OneDrive\Máy tính\STT_THI_HovaTen_MSSV_Lop\STT_THI_HovaTen_MSSV_Lop\x64\Debug\STT_THI_HovaTen_MSSV_Lop_Bai2_TemplateBaithuchanhso5.exe
